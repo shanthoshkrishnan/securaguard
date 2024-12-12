@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom TextInputLayout Style -->
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- Border color -->
+        <item name="boxStrokeColor">@color/inputFieldBorderColor</item>
+
+        <!-- Hint text color -->
+        <item name="hintTextColor">@color/inputFieldHintColor</item>
+
+        <!-- Text color -->
+        <item name="android:textColor">@color/colorOnSurface</item>
+
+        <!-- Error text color -->
+        <item name="errorTextColor">@color/errorColor</item>
+
+        <!-- Rounded corners for the input field -->
+        <item name="shapeAppearanceOverlay">@style/RoundedCorners</item>
+    </style>
+
+    <!-- Rounded Corners Style -->
+    <style name="RoundedCorners">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <!-- Custom Button Style -->
+    <style name="CustomButton">
+        <item name="android:background">@color/buttonBackgroundColor</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+        <item name="android:textSize">16sp</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+
+    <!-- Custom TextView Style -->
+    <style name="CustomTextView">
+        <item name="android:textColor">@color/colorOnBackground</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

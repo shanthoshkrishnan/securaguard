@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Color Palette -->
+    <color name="colorPrimary">#3E2723</color> <!-- Bright blue for primary elements -->
+    <color name="colorPrimaryVariant">#005FCB</color> <!-- Darker shade of blue -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White text on primary color -->
+    <color name="colorPrimaryDark">#00499D</color> <!-- Darker blue for status bar -->
+
+    <!-- Secondary Color Palette -->
+    <color name="colorSecondary">#6FCF97</color> <!-- Fresh green for accents -->
+    <color name="colorSecondaryVariant">#45A263</color> <!-- Darker green -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White text on secondary color -->
+
+    <!-- Background and Surface Colors -->
+    <color name="colorBackground">#F7FAFC</color> <!-- Soft, clean white-blue background -->
+    <color name="colorSurface">#FFFFFF</color> <!-- Card and button backgrounds -->
+    <color name="colorOnBackground">#2E3A59</color> <!-- Deep gray for text on background -->
+    <color name="colorOnSurface">#2E3A59</color> <!-- Deep gray for text on surface -->
+
+    <!-- Error Colors -->
+    <color name="colorError">#E53935</color> <!-- Bright red for errors -->
+    <color name="colorOnError">#FFFFFF</color> <!-- White text on error background -->
+    <color name="errorColor">#FF6F61</color> <!-- Lighter red for hints and borders -->
+
+    <!-- Button Colors -->
+    <color name="inputFieldTextColor">#000000</color> <!-- Black text for better visibility -->
+    <color name="buttonBackgroundColor">#00796B</color> <!-- Vibrant blue for buttons -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- White text on buttons -->
+    <color name="buttonDisabledBackground">#E0E0E0</color> <!-- Muted gray for disabled buttons -->
+    <color name="buttonDisabledTextColor">#B0B0B0</color> <!-- Light gray text for disabled buttons -->
+
+    <!-- Input Field Colors -->
+    <color name="inputFieldBackground">#FFFFFF</color> <!-- Clean white input field background -->
+    <color name="inputFieldBorderColor">#3F8EFE</color> <!-- Blue border for active fields -->
+    <color name="inputFieldHintColor">#757575</color> <!-- Light gray for hint text -->
+    <color name="inputFieldErrorColor">#FF6F61</color> <!-- Error border and text color -->
+
+    <!-- Status Bar and Navigation Bar Colors -->
+    <color name="colorStatusBar">#005FCB</color> <!-- Darker blue for the status bar -->
+    <color name="colorNavigationBar">#3F8EFE</color> <!-- Vibrant blue for the navigation bar -->
+
+    <!-- Divider Colors -->
+    <color name="dividerColor">#E0E0E0</color> <!-- Soft gray for dividers and separators -->
+
+    <!-- Accent Colors -->
+    <color name="purple_200">#D1C4E9</color> <!-- Soft lavender for subtle accents -->
+    <color name="purple_500">#9575CD</color> <!-- Rich purple for highlights -->
+    <color name="purple_700">#673AB7</color> <!-- Deep purple for accents -->
+    <color name="teal_200">#A7FFEB</color> <!-- Pastel teal for gentle accents -->
+    <color name="teal_700">#00897B</color> <!-- Bold teal for contrast -->
+
+    <!-- General Colors -->
+    <color name="white">#FFFFFF</color> <!-- Pure white -->
+    <color name="black">#000000</color> <!-- Pure black -->
+    <color name="grayLight">#F7FAFC</color> <!-- Very light gray-blue for backgrounds -->
+    <color name="grayDark">#2E3A59</color> <!-- Dark slate gray for text -->
+    <color name="grayMedium">#90A4AE</color> <!-- Medium gray for secondary text -->
+
+    <!-- Gradients (for backgrounds or buttons) -->
+    <color name="gradientStart">#3F8EFE</color> <!-- Gradient start color -->
+    <color name="gradientEnd">#6FCF97</color> <!-- Gradient end color -->
+
+</resources>

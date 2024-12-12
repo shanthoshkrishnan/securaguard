@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388963631164",
+    "project_id": "securaguardapp",
+    "storage_bucket": "securaguardapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388963631164:android:19554e53baafaf7d688339",
+        "android_client_info": {
+          "package_name": "com.example.securaguardapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSF2LY3blsrqUbPNsh88IMbYzpdEC6XRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
