@@ -1,4 +1,4 @@
-# SecuraGuard: Offline Biometric Authentication System
+# SecuraGuard: Biometric Authentication System
 
 SecuraGuard is a cross-platform mobile prototype designed for secure, offline face authentication. It uses Kotlin Multiplatform Mobile (KMM) and leverages hardware-backed key storage — Android Keystore and iOS Secure Enclave — to enable decentralized identity verification in low-connectivity environments.
 
